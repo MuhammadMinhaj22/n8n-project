@@ -17,7 +17,7 @@
         0,
         0
       ],
-      "id": "b41de58a-57e7-4322-9c7a-cf28001ba8bc",
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
       "name": "Schedule Trigger"
     },
     {
@@ -25,7 +25,7 @@
         "assignments": {
           "assignments": [
             {
-              "id": "730d5ffd-42e2-4c1b-9cd0-1ecd2de8116e",
+              "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
               "name": "$workflow.name",
               "value": "={{ $workflow.name }}",
               "type": "string"
@@ -40,7 +40,7 @@
         208,
         0
       ],
-      "id": "11fe4b23-c545-4521-91c1-81713e87acff",
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
       "name": "Edit Fields"
     },
     {
@@ -57,15 +57,9 @@
         416,
         0
       ],
-      "id": "65e7c401-1b19-46b9-9566-60e1b83a8cfd",
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
       "name": "Send a message",
-      "webhookId": "e982f89f-7afb-44d3-be25-97fdfbe02d83",
-      "credentials": {
-        "gmailOAuth2": {
-          "id": "dvMvdTypv4t3HGZi",
-          "name": "Gmail account"
-        }
-      }
+      "webhookId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
     }
   ],
   "pinData": {},
@@ -102,7 +96,7 @@
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "523ad156-31f2-4315-bfed-d6592175f754",
+  "versionId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "5737db02f5cb5b3133055dbf586a5b9a67f65858a6409ca37dd0c1dbe2e70ddf"
