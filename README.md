@@ -13,3 +13,4 @@ It automatically sends an email to a predefined address every 30 seconds.
 
 🛠 Easy to customize (change interval, email content, recipients)
 
+<img width="1415" height="655" alt="image" src="https://github.com/user-attachments/assets/e22ee8d2-d42d-437b-bea5-7e2b3d0741e0" />
